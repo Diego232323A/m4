@@ -1,0 +1,12 @@
+{
+    "name": "notification-service",
+    "version": "1.0.0",
+    "main": "notification-service.js",
+    "scripts": {
+      "start": "node notification-service.js"
+    },
+    "dependencies": {
+      "aws-sdk": "^2.814.0"
+    }
+  }
+  
